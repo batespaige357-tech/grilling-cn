@@ -11,3 +11,8 @@ Changes: frontmatter name and Chinese discovery terms; append Chinese question w
 Recent-interest evidence: https://www.skills.sh/trending checked 2026-11-17T05:49:51.911649+00:00; Trending (24h), grilling #74, displayed 6.3K. Installation trend, not GitHub Star growth or creation date. This is a recent-interest snapshot, not proof of a new viral release.
 
 Validation: original body retention, UTF-8, Markdown targets and skill format. No actual multi-round interview or assistant behavior evaluation; no downloaded scripts executed and no frontend build.
+
+
+## 2026-11-18 · 文档表达更新
+
+README 优先展示用途、功能与用法；来源信息集中到来源与许可部分，精简技能入口中的重复声明。核心工作流、参考内容、版权和许可证保持不变。

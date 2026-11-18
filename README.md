@@ -2,15 +2,13 @@
 
 **把模糊想法问清楚，再决定怎么做。**
 
-基于 [mattpocock/skills 的 grilling](https://github.com/mattpocock/skills/tree/main/skills/productivity/grilling) 的中文适配，独立维护、非官方。
-
 ## 核心流程
 
 把计划拆成有依赖关系的设计树，每轮提出当前能回答的全部问题并给出推荐。先调查可以查明的事实，用户回答后更新决策树；直到没有遗漏分支，再确认双方理解一致。
 
 适合推敲产品方案、技术设计和重要选择；需要用户参与回答，不能无人值守替用户做决定。
 
-## 小幅补充
+## 中文支持
 
 - 中文提问，解释必要术语，保留原始标识。
 - “是／同意”接受推荐，避免双重否定和一个问题捆绑多个决定。
@@ -27,7 +25,9 @@ npx skills add batespaige357-tech/grilling-cn --skill grilling-cn
 
 原流程调查环境事实时使用子代理，需要宿主具备相应能力；本包不附带代理运行时、浏览器或外部账号。无需安装其他 Matt Pocock 技能。
 
-## 来源与检查
+## 来源与许可
+
+基于 [mattpocock/skills 的 grilling](https://github.com/mattpocock/skills/tree/main/skills/productivity/grilling)，由本仓库维护。
 
 MIT，保留 Matt Pocock 版权及完整许可证。详见 [CHANGES.md](CHANGES.md)。
 
